@@ -1,6 +1,9 @@
 # inadimplencia de cartao de Credito
 
 
+![image](https://github.com/user-attachments/assets/b6dcddd7-8a1f-4aff-a15a-0043aee8cc58)
+
+
 
 
 Temos uma base com informações de inadimplência de 30000 Clientes de cartão de Crédito.
