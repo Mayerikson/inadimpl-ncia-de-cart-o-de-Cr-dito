@@ -1,4 +1,4 @@
-# inadimplencia de cartao de Credito
+# Inadimplencia de cartao de Credito
 
 
 ![image](https://github.com/user-attachments/assets/b6dcddd7-8a1f-4aff-a15a-0043aee8cc58)
